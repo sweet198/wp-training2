@@ -5,7 +5,7 @@ Template Name: Наша история
 ?>
 
 <?php
-get_heager();
+get_header();
 ?>
 
 <div class="aboutus">

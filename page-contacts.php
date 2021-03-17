@@ -5,7 +5,7 @@ Template Name: Контакты и отзывы
 ?>
 
 <?php
-get_heager();
+    get_header();
 ?>
 
 <div class="contacts">
@@ -191,5 +191,5 @@ get_heager();
 </div>
 
 <?php
-get_footer();
+    get_footer();
 ?>

@@ -5,7 +5,7 @@ Template Name: Наша команда
 ?>
 
 <?php
-    get_heager();
+    get_header();
 ?>
 
 <div class="specialists">

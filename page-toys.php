@@ -5,7 +5,7 @@ Template Name: Игрушки
 ?>
 
 <?php
-get_heager();
+get_header();
 ?>
 
 <div class="toys">
