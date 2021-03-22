@@ -57,7 +57,7 @@
         </div>
         <nav class="row" data-slide="1">
 
-          <?php
+        <?php // Добавляем динамическое меню
             wp_nav_menu( [
             	'menu'            => 'Main',
             	'container'       => false,

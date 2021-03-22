@@ -35,7 +35,7 @@
         $atts['class'] = 'header__nav-item';
 
         if ($item->current) {
-          $atts['class'] = 'header__nav-item-active';
+          $atts['class'] .= ' header__nav-item-active';
         }
       }
 
